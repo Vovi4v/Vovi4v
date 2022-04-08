@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Vovi4v
-- 👀 I’m interested in  web приграмирование
-- 🌱 I’m currently learni(я пока что ничего не умею) но мне интересна это занятие и я хочу попробывать научиться
+- 👀 I’m interested in  web programming
+- 🌱 I’m currently learni(I still can't do anything) but I am interested in this occupation and I want to try to learn
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
